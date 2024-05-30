@@ -8,7 +8,7 @@ I am a passionate data scientist and deep learning enthusiast, with a keen inter
 
 - 💼 I'm currently enrolled in "The Complete Neural Networks Bootcamp: Theory, Applications," which is enhancing my deep learning expertise.
 
-- 💡 My long-term goal is to contribute to the field of deep learning, machine learning, and artificial intelligence through research and development. I aspire to pursue a Ph.D. in this domain to further explore cutting-edge technologies and their real-world applications.
+- 💡 My long-term goal is to contribute to the field of deep learning, machine learning, and artificial intelligence through research and development. I aspire to pursue a Masters in this domain to further explore cutting-edge technologies and their real-world applications.
 
 ## Interests
 
