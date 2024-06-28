@@ -29,7 +29,7 @@ I'm open to collaborating on:
 
 ## Contact Me
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/md-ifthekher-897684158), where I share my insights and experiences in the field of data science and AI. Feel free to connect with me; I'm always eager to discuss exciting opportunities and projects.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/ifthekher237), where I share my insights and experiences in the field of data science and AI. Feel free to connect with me; I'm always eager to discuss exciting opportunities and projects.
 
 Thank you for visiting my GitHub profile. Let's connect and collaborate to make a meaningful impact in the world of AI, data science, and applied mathematics!
 
