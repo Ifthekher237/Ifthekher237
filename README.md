@@ -4,6 +4,8 @@ I am a passionate data scientist and deep learning enthusiast, with a keen inter
 
 ## About Me
 
+- 📚 I am currently pursuing my Master's in Information Technology, focusing on Artificial Intelligence, at Macquarie University in Sydney. This advanced program is further honing my skills and knowledge in AI and machine learning.
+  
 - 🎓 I graduated from the University of Dhaka with a degree in Applied Mathematics, which provided me with a strong foundation in mathematical concepts and problem-solving skills.
 
 - 💼 I'm currently enrolled in "The Complete Neural Networks Bootcamp: Theory, Applications," which is enhancing my deep learning expertise.
