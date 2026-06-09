@@ -1,37 +1,85 @@
-# Hello, I'm Ifthekher! 👋
+# Hi, I'm Md Ifthekher Uddin Chy 👋
 
-I am a passionate data scientist and deep learning enthusiast, with a keen interest in artificial intelligence and machine learning. I hold a Bachelor's degree in Applied Mathematics from the University of Dhaka and am currently pursuing further education and practical skills in these fields.
+AI & Machine Learning Graduate Student | Healthcare AI & Applied AI Enthusiast
+
+I’m currently pursuing a Master of Information Technology (Artificial Intelligence) at Macquarie University, Sydney, with a strong interest in building practical AI systems that solve real-world problems.
+
+My background in Applied Mathematics from the University of Dhaka gives me a solid foundation in analytical thinking, problem solving, and machine learning fundamentals. I enjoy working on projects involving deep learning, NLP, computer vision, healthcare AI, and intelligent automation.
+
+---
 
 ## About Me
 
-- 📚 I am currently pursuing my Master's in Information Technology, focusing on Artificial Intelligence, at Macquarie University in Sydney. This advanced program is further honing my skills and knowledge in AI and machine learning.
-  
-- 🎓 I graduated from the University of Dhaka with a degree in Applied Mathematics, which provided me with a strong foundation in mathematical concepts and problem-solving skills.
+* 🎓 Master of Information Technology (Artificial Intelligence)
+  Macquarie University, Sydney
 
-- 💼 I'm currently enrolled in "The Complete Neural Networks Bootcamp: Theory, Applications," which is enhancing my deep learning expertise.
+* 📘 Bachelor of Science in Applied Mathematics
+  University of Dhaka
 
-- 💡 My long-term goal is to contribute to the field of deep learning, machine learning, and artificial intelligence through research and development.
+* 💻 Passionate about:
 
-## Interests
+  * Machine Learning & Deep Learning
+  * Natural Language Processing (NLP)
+  * Computer Vision
+  * Healthcare AI
+  * Data Analytics & Intelligent Systems
 
-I'm deeply interested in:
+* 🔬 Currently working on:
 
-- 📊 Data Science: Extracting valuable insights from data.
-- 🧠 Deep Learning: Exploring neural networks and their applications.
-- 🤖 Artificial Intelligence: Building intelligent systems.
-- 🤓 Machine Learning: Developing algorithms that learn and adapt.
+  * Healthcare AI projects
+  * Medical NLP & clinical AI systems
+  * Fine-grained computer vision models
+  * LLM-powered applications and AI workflows
 
-## Collaboration
+* ⚡ Interested in combining AI research with practical product development and deployment.
 
-I'm open to collaborating on:
+---
 
-- 🌐 Open-Source Projects: Contributing to the community.
-- 🎓 Research: Exploring new horizons in AI and ML.
-- 🤝 Networking: Connecting with like-minded professionals.
+## Technical Interests
 
-## Contact Me
+* Python
+* PyTorch
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
+* Data Science
+* Generative AI
+* AI Evaluation & Explainability
+* MLOps & AI Workflows
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/ifthekher237), where I share my insights and experiences in the field of data science and AI. Feel free to connect with me; I'm always eager to discuss exciting opportunities and projects.
+---
 
-Thank you for visiting my GitHub profile. Let's connect and collaborate to make a meaningful impact in the world of AI, data science, and applied mathematics!
+## What You’ll Find Here
 
+This GitHub contains:
+
+* AI & Machine Learning projects
+* University coursework and research-based implementations
+* Healthcare AI experiments
+* Deep learning notebooks
+* NLP and computer vision applications
+* End-to-end practical AI systems
+
+I focus on building projects that are practical, well-documented, and aligned with real industry use cases.
+
+---
+
+## Collaboration & Opportunities
+
+I’m always open to:
+
+* AI/ML research collaborations
+* Open-source contributions
+* Internship opportunities
+* Healthcare AI projects
+* Applied AI product development
+
+---
+
+## Connect With Me
+
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ifthekher237?utm_source=chatgpt.com)
+* GitHub: [GitHub Profile](https://github.com/Ifthekher237?utm_source=chatgpt.com)
+
+Thanks for visiting my profile.
